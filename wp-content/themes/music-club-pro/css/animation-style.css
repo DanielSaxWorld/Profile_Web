@@ -1,0 +1,14 @@
+.aboutus_wrap,
+.services_page_box, 
+.our_event_list,
+#section2 .container, 
+.audio_album_list,
+.tabs-wrapper, 
+#section4 .container,
+#section5 .container,
+#section6 .container,
+#section7 .container,
+#section8 .container,
+#section9 .container{ 
+visibility:hidden;
+}
